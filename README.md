@@ -10,7 +10,7 @@ A from-scratch, end-to-end practice project: capturing a multi-view image set of
 
 | Front view | Top-down view |
 |---|---|
-| ![front](assets/front_view.png) | ![top](assets/top_view.png) |
+| ![front](3DGS_Front.png) | ![top](3DGS_TopView.png) |
 
 *Reconstruction of a small potted plant from 47 phone-captured images. COLMAP matched all 47 images; the 3DGS model was trained to 30,000 iterations.*
 
