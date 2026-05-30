@@ -70,7 +70,7 @@ Fixed by installing **CUDA Toolkit 12.8** (which supports compute_120), pointing
 **3. Out-of-memory during compilation on a laptop GPU.**
 The default parallel build (`MAX_JOBS=10`) exhausted RAM. Fixed by lowering it to `MAX_JOBS=2`, trading speed for a stable, lower memory footprint.
 
-See [`notes/blackwell_setup.md`](notes/blackwell_setup.md) for the detailed step-by-step.
+See [`blackwell_setup.md`](blackwell_setup.md) for the detailed step-by-step.
 
 ---
 
